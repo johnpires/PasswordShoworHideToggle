@@ -41,7 +41,7 @@ Se você está se sentindo confuso sobre este programa [Password Show or Hide To
 🎬 - [Mostrar ou Ocultar Senha usando HTML CSS e JavaScript - YouTube ](https://www.youtube.com/watch?v=Uo7RAkUPFJ8)
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/26515702/131768469-4a23b8bd-e899-41fa-89e3-3d5889715a45.gif" alt="Tela do projeto" />
+ <img src="https://user-images.githubusercontent.com/26515702/187558300-7230bf60-8673-401f-947e-e1fd8d3b2ba5.png" alt="Tela do projeto" />
 </p>
 
 ## 🤔 Como contribuir
